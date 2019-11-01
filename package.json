@@ -1,0 +1,22 @@
+{
+  "name": "file-rename",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthew-french/file-rename.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthew-french/file-rename/issues"
+  },
+  "homepage": "https://github.com/matthew-french/file-rename#readme",
+  "dependencies": {
+    "date-fns": "^2.6.0"
+  }
+}
